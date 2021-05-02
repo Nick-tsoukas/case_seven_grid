@@ -8,3 +8,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.tabel_container {
+    max-width: 984px;
+    margin-right: auto;
+    margin-left: auto;
+}
